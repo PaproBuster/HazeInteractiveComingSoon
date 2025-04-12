@@ -5,7 +5,7 @@ const nextConfig = {
     unoptimized: true,
   },
   // Replace "coming-soon" with your actual repository name when you create it
-  basePath: process.env.NODE_ENV === "production" ? "/coming-soon" : "",
+  basePath: process.env.NODE_ENV === "production" ? "/HazeInteractiveComingSoon" : "",
   trailingSlash: true,
 };
 
